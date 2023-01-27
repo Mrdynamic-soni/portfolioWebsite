@@ -1,0 +1,10 @@
+.heading{
+    font-family: 'Noto Serif', serif;
+    font-weight: 700;
+    font-size: 64px;
+    opacity: 1;
+}
+.links a{
+    text-decoration: none;
+
+}

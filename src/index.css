@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+  
 }
 
 code {
